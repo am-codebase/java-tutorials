@@ -22,18 +22,16 @@ Learn how `String` and `StringBuilder` behave in Java through small, runnable ex
 
 Each `.java` file has its own `main` method, so you can run examples independently.
 
-| Video scene | Topic | Java file |
-|---|---|---|
-| 02 | Your first String | [`StringBasicsDemo.java`](src/StringBasicsDemo.java) |
-| 04 | Immutability, `concat()`, and reassignment | [`StringImmutabilityDemo.java`](src/StringImmutabilityDemo.java) |
-| 07 | First `StringBuilder` and `append()` | [`StringBuilderBasicsDemo.java`](src/StringBuilderBasicsDemo.java) |
-| 08 | Same task, different behavior | [`StringVsStringBuilderDemo.java`](src/StringVsStringBuilderDemo.java) |
-| 09 | Shopping list | [`ShoppingListDemo.java`](src/ShoppingListDemo.java) |
-| 10 | `append`, `insert`, `replace`, `delete`, `reverse` | [`StringBuilderMethodsDemo.java`](src/StringBuilderMethodsDemo.java) |
-| 11 | Building text in loops | [`LoopComparisonDemo.java`](src/LoopComparisonDemo.java) |
-| 13 | Real-world shop receipt | [`ReceiptDemo.java`](src/ReceiptDemo.java) |
-
-Scenes 01, 03, 05, 06, 12, and 14 are explanation or slide scenes and do not require standalone Java programs.
+| Topic | Java file |
+|---|---|
+| Your first String | [`StringBasicsDemo.java`](src/StringBasicsDemo.java) |
+| Immutability, `concat()`, and reassignment | [`StringImmutabilityDemo.java`](src/StringImmutabilityDemo.java) |
+| First `StringBuilder` and `append()` | [`StringBuilderBasicsDemo.java`](src/StringBuilderBasicsDemo.java) |
+| Same task, different behavior | [`StringVsStringBuilderDemo.java`](src/StringVsStringBuilderDemo.java) |
+| Shopping list | [`ShoppingListDemo.java`](src/ShoppingListDemo.java) |
+| `append`, `insert`, `replace`, `delete`, `reverse` | [`StringBuilderMethodsDemo.java`](src/StringBuilderMethodsDemo.java) |
+| Building text in loops | [`LoopComparisonDemo.java`](src/LoopComparisonDemo.java) |
+| Real-world shop receipt | [`ReceiptDemo.java`](src/ReceiptDemo.java) |
 
 ## How to run
 
